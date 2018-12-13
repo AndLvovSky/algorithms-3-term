@@ -1,0 +1,5 @@
+N = 99999
+P = 3
+Iterations = 100
+Sequent time = 1.558 s
+Parallel time = 1.17887 s
